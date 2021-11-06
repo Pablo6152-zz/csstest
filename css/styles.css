@@ -1,0 +1,29 @@
+html, body{
+    background: #121212;
+    color: white;
+    font-family: Poppins;
+    height: 100%;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    border-radius: 7px;
+    border: solid 1px white;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-top: 10px;
+}
+.recipe-photo{
+    max-width: 30%;
+	height: auto;
+    border: solid 5px rgb(36, 16, 148);
+    border-radius: 5px;
+}
+h1{
+    margin: 0;
+}
